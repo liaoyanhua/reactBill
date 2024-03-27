@@ -1,5 +1,5 @@
 :root:root {
-  --adm-color-primary: aqua;
+  --adm-color-primary: rgb(105, 174, 120);
 }
 .purple {
   --adm-color-primary: #a062d4;
